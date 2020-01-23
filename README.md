@@ -6,7 +6,7 @@ All engineers in Company X take it in turns to support the business for half a d
 Currently, generating a schedule that shows who’s turn is it to support the business is being done manually and we need to automate that!
 
 #### The rules
-- [x] There are only two support shifts per day, a day shift and a night shift.
+- [x] There are only two support shifts per day, <b>a day shift </b> and <b>a night shift </b>.
 - [x] An engineer can do at most one shift in a day.
 - [x] An engineer cannot have more than one shift on any consecutive days.
 - [x] Each engineer should have completed 2 shifts of support in any 2 week period.
@@ -22,6 +22,15 @@ UX/UI is up to you to decide; however, two following screens should be included:
  						
 - <b>Schedule screen</b>: A screen showing the generated schedule. The user should be able to navigate back to the engineers list screen by clicking on the back button
  
+#### Technology Stack 
+ 
+| Frontend      | Backend       | Database   |
+| ------------- |:-------------:| ----------:|
+| Kotlin        | Express       | MySql      |
+|               | Node          |            |
+
+#### Framework Design 
+
 
 
 
