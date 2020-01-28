@@ -35,6 +35,28 @@ UX/UI is up to you to decide; however, two following screens should be included:
 #### Framework Design 
 
 
+## Installation
+Clone this repository and import into **Android Studio**
+```bash
+git clone https://github.com/iasmar/Android-Support-Wheel-of-Fate.git
+```
+## Build variants
+Use the Android Studio *Build Variants* button to choose between **prod** and **qualityAssurance** and **mock** flavors combined with debug and release build types
+
+
+## Building using Android Studio...
+
+1. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager)
+1. Select *Open an existing Android Studio project*
+1. Select the **Android-Support-Wheel-of-Fate** directory.
+1. Select the **Build variant** (mockDebug, mockQualityAssurance, prodDebug, prodQualityAssurance, prodRelease).
+
+## Building
+To build the samples after you have applied the changes above, you can use the build/run option in Android Studio, or build directly from the command line if you prefer.
+
+ ## Built With
+
+* [Gradle](https://guides.gradle.org/building-android-apps/)
 
 
  						
