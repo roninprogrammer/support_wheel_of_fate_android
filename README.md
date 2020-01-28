@@ -21,6 +21,9 @@ UX/UI is up to you to decide; however, two following screens should be included:
 - <b>Engineers list screen</b>: A screen showing the fetched list of engineers with a "Generate Schedule" button somewhere in the UI. Clicking on the "Generate Schedule" button should navigate to the schedule screen.
  						
 - <b>Schedule screen</b>: A screen showing the generated schedule. The user should be able to navigate back to the engineers list screen by clicking on the back button
+
+<img src="screenshot/engineers_page.png" height="400" alt="Screenshot"/> <img src="screenshot/schedule_page.png" height="400" alt="Screenshot"/>
+
  
 #### Technology Stack 
  
